@@ -128,7 +128,7 @@ These matrices helped validate data integrity, relationships, and hierarchies.
 
 ## 📝 Report View
 
-![Report View](ReportView.png)
+![Report View](/ReportView.png)
 
 **Verification matrices demonstrating sales breakdown, fiscal-year return analysis, and customer segment revenue validation.**
 
@@ -136,7 +136,7 @@ These matrices helped validate data integrity, relationships, and hierarchies.
 
 ## 📝 Model View
 
-![Model View](ModelView.png)
+![Model View](/ModelView.png)
 
 **Complete Star Schema with dual fact tables, optimized relationships, and fully defined hierarchies.**
 
